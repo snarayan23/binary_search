@@ -1,6 +1,6 @@
 # Binary Search 
-[![](https://github.com/mikeizbicki/binary_search/workflows/tests/badge.svg)](https://github.com/mikeizbicki/binary_search/actions?query=workflow%3Atests)
-[![](https://github.com/mikeizbicki/binary_search/workflows/extra_credit/badge.svg)](https://github.com/mikeizbicki/binary_search/actions?query=workflow%3Atests)
+[![](https://github.com/snarayan23/binary_search/workflows/tests/badge.svg)](https://github.com/mikeizbicki/snarayan23/actions?query=workflow%3Atests)
+[![](https://github.com/snarayan23/binary_search/workflows/extra_credit/badge.svg)](https://github.com/snarayan23/binary_search/actions?query=workflow%3Atests)
 
 You will implement several variations of the binary search algorithm.
 
